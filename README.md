@@ -1,6 +1,6 @@
 ### [Maher Jaidane](https://www.linkedin.com/in/maherjaidane/)
 
-https://www.linkedin.com/in/maherjaidane/
+[https://www.linkedin.com/in/maherjaidane/](https://www.linkedin.com/in/maherjaidane/)
 
 ---
 
