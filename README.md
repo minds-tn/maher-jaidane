@@ -91,7 +91,7 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
     "image": "https://www.minds.tn/maher-jaidane.jpg",
     "jobTitle": "Tech Entrepreneur",
     "description": "Technology entrepreneur leading digital and AI transformation, with twenty years of experience leading engineering teams and delivering secure digital platforms. Master's in AI for Business; AI programmes at Harvard Business School Online, Oxford and Stanford.",
-    "disambiguatingDescription": "Technology entrepreneur specialising in digital and AI transformation.",
+    "disambiguatingDescription": "Technology entrepreneur specialising in digital and AI transformation, active since 2007.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "TN"
