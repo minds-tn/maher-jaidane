@@ -247,9 +247,3 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
   }
 }
 </script>
-
-<!-- 
-  [IBM - Enterprise Design Thinking Practitioner](https://www.credly.com/badges/2ef44d34-c32a-4720-855b-2925336bed64)
-  [IBM - Enterprise Design Thinking - Team Essentials for AI](https://www.credly.com/badges/592bb1d0-89fc-424b-b5e5-3a9afee78465)
-  [Scaled Agile Inc - SAFe® - Design Thinking Fundamentals](https://www.credly.com/badges/436d1b65-9628-436e-8ceb-da3cd1f53412)
--->
