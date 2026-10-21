@@ -1,6 +1,8 @@
 # Maher Jaidane
 
-Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Solutions Specialist
+Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Transformation Lead
+
+Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.
 
 [LinkedIn](https://www.linkedin.com/in/maherjaidane/)
 
@@ -12,8 +14,8 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
 2. [Certified Integrated AI Professional (IAIP™)](https://certificates.grccertify.org/defa9477-8b61-401a-8dfb-5e575ade981f)
 3. [Certified SAFe® 6 Agilist (SA)](https://www.credly.com/badges/7b6ab197-1a9d-4c91-a59f-f70a3d95d6a2)
 4. [ICAgile Certified Professional](https://www.icagile.com/credentials/aeb04a35-e460-49b0-a40a-d8ccc97bd5a3)
-5. [Professional Scrum Master™ II (PSM II)](https://www.credly.com/badges/a543e90c-1f9f-4140-85e2-23c9d9dbab64/)
-6. [Professional Scrum Product Owner™ II (PSPO II)](https://www.credly.com/badges/91e94a05-c749-4d60-a7a3-7313f2f6570c)
+5. [Professional Scrum Master™ II (PSM II)](https://www.scrum.org/user/1409422)
+6. [Professional Scrum Product Owner™ II (PSPO II)](https://www.scrum.org/user/1409422)
 7. [Disciplined Agile Scrum Master (DASM)](https://www.credly.com/badges/dda5d73b-35c5-49a4-bdf1-002cc711816a)
 8. [Lean Six Sigma Black Belt Certification (CLSSBB)](https://badgr.com/public/assertions/u-GbAUn8SdmdnZ245Cq8Lg)
 9. [Certified ISO/IEC 27001:2022 Lead Auditor](https://www.credly.com/badges/bd421f15-6324-4272-8622-110278961cfb)
@@ -89,18 +91,21 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
     "familyName": "Jaidane",
     "url": "https://minds-tn.github.io/maher-jaidane/",
     "image": "https://www.minds.tn/maher-jaidane.jpg",
-    "jobTitle": "Tech Entrepreneur",
-    "description": "Technology entrepreneur leading digital and AI transformation, with twenty years of experience leading engineering teams and delivering secure digital platforms. Master's in AI for Business; AI programmes at Harvard Business School Online, Oxford and Stanford.",
-    "disambiguatingDescription": "Technology entrepreneur specialising in digital and AI transformation, active since 2007.",
+    "jobTitle": ["Tech Entrepreneur", "Project Manager", "AI Transformation Lead"],
+    "description": "Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.",
+    "disambiguatingDescription": "Technology entrepreneur specializing in digital and AI transformation, active since 2007.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "TN"
     },
     "knowsAbout": [
       "Artificial intelligence",
-      "Web security",
+      "Digital transformation",
       "Agile at scale",
-      "Digital transformation"
+      "Project management",
+      "Web development",
+      "Web security",
+      "Information security management"
     ],
     "alumniOf": [
       {
@@ -112,7 +117,7 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
         "name": "Universidad Isabel I"
       },
       {
-        "@type": "EducationalOrganization",
+        "@type": "CollegeOrUniversity",
         "name": "Institut des Hautes Études de Tunis"
       }
     ],
@@ -156,7 +161,16 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
       {
         "@type": "EducationalOccupationalCredential",
         "name": "Professional Scrum Master™ II (PSM II)",
-        "url": "https://www.credly.com/badges/a543e90c-1f9f-4140-85e2-23c9d9dbab64/",
+        "url": "https://www.scrum.org/user/1409422",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Scrum.org"
+        }
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Professional Scrum Product Owner™ II (PSPO II)",
+        "url": "https://www.scrum.org/user/1409422",
         "recognizedBy": {
           "@type": "Organization",
           "name": "Scrum.org"
@@ -242,6 +256,7 @@ Tech Entrepreneur | Project Manager | Web Development & Security Expert | AI Sol
     "sameAs": [
       "https://www.linkedin.com/in/maherjaidane/",
       "https://www.scrum.org/user/1409422",
+      "https://www.icagile.com/credentials/aeb04a35-e460-49b0-a40a-d8ccc97bd5a3",
       "https://directory.iiba.org/profile/1f903c8f-600a-4d60-bae1-955e5c1294ea"
     ]
   }
