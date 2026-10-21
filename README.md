@@ -1,6 +1,6 @@
 # Maher Jaidane
 
-Tech Entrepreneur | AI Transformation Lead | Project Manager | Web Development & Security Expert
+Tech Entrepreneur | AI Transformation Lead | Agile Project Manager | Web Development & Security Expert
 
 Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.
 
@@ -91,7 +91,7 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
     "familyName": "Jaidane",
     "url": "https://minds-tn.github.io/maher-jaidane/",
     "image": "https://www.minds.tn/maher-jaidane.jpg",
-    "jobTitle": ["Tech Entrepreneur", "AI Transformation Lead", "Project Manager"],
+    "jobTitle": ["Tech Entrepreneur", "AI Transformation Lead", "Agile Project Manager"],
     "description": "Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.",
     "disambiguatingDescription": "Technology entrepreneur specializing in digital and AI transformation, active since 2007.",
     "address": {
