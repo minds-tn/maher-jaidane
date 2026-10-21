@@ -4,7 +4,7 @@ Tech Entrepreneur | AI Transformation Lead | Agile Project Manager | Web Develop
 
 Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.
 
-[LinkedIn](https://www.linkedin.com/in/maherjaidane/)
+[LinkedIn](https://www.linkedin.com/in/maherjaidane/) · Founder of [minds.tn](https://www.minds.tn/)
 
 ---
 
@@ -92,8 +92,18 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
     "url": "https://minds-tn.github.io/maher-jaidane/",
     "image": "https://www.minds.tn/maher-jaidane.jpg",
     "jobTitle": ["Tech Entrepreneur", "AI Transformation Lead", "Agile Project Manager"],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "minds.tn",
+      "url": "https://www.minds.tn/",
+      "sameAs": "https://www.linkedin.com/company/minds.tn",
+      "foundingDate": "2017",
+      "founder": {
+        "@id": "https://minds-tn.github.io/maher-jaidane/#person"
+      }
+    },
     "description": "Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.",
-    "disambiguatingDescription": "Technology entrepreneur specializing in digital and AI transformation, active since 2007.",
+    "disambiguatingDescription": "Technology entrepreneur and founder of minds.tn, specializing in digital and AI transformation, active since 2007.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "TN"
