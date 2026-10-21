@@ -21,7 +21,7 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
 9. [Certified ISO/IEC 27001:2022 Lead Auditor](https://www.credly.com/badges/bd421f15-6324-4272-8622-110278961cfb)
 10. [Saïd Business School, University of Oxford - AI in Financial Services Specialization](https://coursera.org/share/a99f6d43f47556f29d1ac7f4141cb6e6)
 11. [Stanford Online - AI in Healthcare Specialization](https://coursera.org/share/59247f7c356a176362f779ed251c4304)
-12. [Harvard Online - Power Skills for Career Growth Specialization](https://cecredential-validation.tlt.harvard.edu)
+12. [Harvard Online - Power Skills for Career Growth Specialization](https://cecredential-validation.tlt.harvard.edu/?cedid=25XL-LDT9-MRER)
 13. [University of Michigan - Generative AI in Business Specialization](https://coursera.org/share/134bcc9fa33a0a42003020fc6da35c11)
 14. [Duke Corporate Education - Data Driven Decision Making for Agile Organizations Specialization](https://coursera.org/share/26baf1e9221697bcbaba52b672d035b7)
 15. [Duke Corporate Education - Strategy and Innovation for Agile Organizations Specialization](https://coursera.org/share/c47df201f2601262a230f83289a491cd)
