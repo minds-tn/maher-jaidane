@@ -1,8 +1,6 @@
 title: Maher Jaidane
 tagline: AI Transformation Lead & Tech Entrepreneur
 description: "Maher Jaidane: Harvard AI for Leaders, Oxford and Stanford AI specializations, IAIP, ISO 27001 Lead Auditor, AI-Native SAFe Agilist, PSM II, Lean Six Sigma Black Belt."
-
-# Every page uses _layouts/default.html
 defaults:
   - scope:
       path: ""
