@@ -1,9 +1,3 @@
-/* Maher Jaidane · professional record (GitHub Pages)
-   The content is README.md, unchanged. This script only rearranges it:
-   - the header (name, roles, links, summary) becomes the record header;
-   - each list becomes a table: credential (linked to its source) and issuer.
-   Lines written "Issuer - Title" are split automatically. For a main credential
-   without " - ", add its exact text and issuer to BY below. */
 (function () {
   var main = document.getElementById('content');
   var head = document.getElementById('head');
@@ -23,8 +17,6 @@
     'Registered Scrum@Scale Fundamentals™': 'Agile Education by Scrum Inc.™'
   };
   function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;'); }
-
-  // 1. Record header
   var n = main.firstElementChild, parts = [];
   while (n && n.tagName !== 'HR') { var nx = n.nextElementSibling; parts.push(n); n = nx; }
   if (n) n.remove();
@@ -32,15 +24,22 @@
   if (h1) { h1.insertAdjacentHTML('beforebegin', '<p class="kind">Profile</p>'); }
   head.appendChild(document.querySelector('.kind'));
   if (h1) head.appendChild(h1);
-  if (roles) { roles.className = 'roles'; roles.textContent = roles.textContent.split('|').map(function (s) { return s.trim(); }).join(' · '); head.appendChild(roles); }
+  if (roles) {
+    var items = roles.tagName === 'TABLE'
+      ? Array.prototype.map.call(roles.querySelectorAll('td, th'), function (c) { return c.textContent.trim(); })
+      : roles.textContent.split('|').map(function (x) { return x.trim(); });
+    var rp = document.createElement('p');
+    rp.className = 'roles';
+    rp.textContent = items.filter(Boolean).join(' · ');
+    roles.remove();
+    head.appendChild(rp);
+  }
   if (links) { links.className = 'links'; head.appendChild(links); }
   if (bio) {
     var s = document.createElement('section'); s.id = 'summary';
     s.innerHTML = '<h2>Summary</h2>'; bio.className = 'abs'; s.appendChild(bio);
     head.appendChild(s);
   }
-
-  // 2. Sections and tables
   main.querySelectorAll('hr').forEach(function (h) { h.remove(); });
   var ids = [['summary', 'Summary']];
   main.querySelectorAll('h2').forEach(function (h) {
@@ -67,6 +66,5 @@
     list.replaceWith(tbl);
     sec.appendChild(tbl);
   });
-  // move remaining nodes (JSON-LD script) untouched
   toc.innerHTML = ids.map(function (x) { return '<li><a href="#' + x[0] + '">' + esc(x[1]) + '</a></li>'; }).join('');
 })();
