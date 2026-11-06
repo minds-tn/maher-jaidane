@@ -208,6 +208,15 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
       },
       {
         "@type": "EducationalOccupationalCredential",
+        "name": "Certified AI-Native SAFe® Agilist",
+        "url": "https://www.credly.com/badges/30a2432f-6f92-4738-916c-4640592d9c87",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Scaled Agile, Inc."
+        }
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
         "name": "Certified SAFe® 6 Agilist (SA)",
         "url": "https://www.credly.com/badges/7b6ab197-1a9d-4c91-a59f-f70a3d95d6a2",
         "recognizedBy": {
