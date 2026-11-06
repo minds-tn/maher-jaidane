@@ -2,7 +2,7 @@
 
 Tech Entrepreneur | AI Transformation Lead | Agile Project Manager | Web Development & Security Expert
 
-Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.
+Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, AI-Native SAFe® Agilist, PSM II and Lean Six Sigma Black Belt.
 
 [LinkedIn](https://www.linkedin.com/in/maherjaidane/) · Founder of [minds.tn](https://www.minds.tn/)
 
@@ -104,7 +104,7 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
         "@id": "https://minds-tn.github.io/maher-jaidane/#person"
       }
     },
-    "description": "Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, SAFe® 6 Agilist, PSM II and Lean Six Sigma Black Belt.",
+    "description": "Technology entrepreneur leading digital and AI transformation, with twenty years in tech, leading engineering teams, driving agile at scale and delivering secure digital platforms. AI programs at Harvard Business School Online, Oxford and Stanford, and a Master's in AI for Business. Certified IAIP™, ISO/IEC 27001 Lead Auditor, AI-Native SAFe® Agilist, PSM II and Lean Six Sigma Black Belt.",
     "disambiguatingDescription": "Technology entrepreneur and founder of minds.tn, specializing in digital and AI transformation, active since 2007.",
     "address": {
       "@type": "PostalAddress",
