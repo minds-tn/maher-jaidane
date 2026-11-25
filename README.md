@@ -96,6 +96,7 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
     "jobTitle": ["Tech Entrepreneur", "AI Transformation Lead", "Agile Project Manager", "Web Development & Security Expert"],
     "worksFor": {
       "@type": "Organization",
+      "@id": "https://www.minds.tn/#organization",
       "name": "minds.tn",
       "url": "https://www.minds.tn/",
       "sameAs": "https://www.linkedin.com/company/minds.tn",
