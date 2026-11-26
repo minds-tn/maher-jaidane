@@ -93,7 +93,12 @@ Technology entrepreneur leading digital and AI transformation, with twenty years
     "familyName": "Jaidane",
     "url": "https://minds-tn.github.io/maher-jaidane/",
     "image": "https://www.minds.tn/maher-jaidane.jpg",
-    "jobTitle": ["Tech Entrepreneur", "AI Transformation Lead", "Agile Project Manager", "Web Development & Security Expert"],
+    "jobTitle": [
+      "Tech Entrepreneur",
+      "AI Transformation Lead",
+      "Agile Project Manager",
+      "Web Development & Security Expert"
+    ],
     "worksFor": {
       "@type": "Organization",
       "@id": "https://www.minds.tn/#organization",
